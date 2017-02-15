@@ -3,7 +3,7 @@
     <groupId>com.github.Gebon</groupId>
     <artifactId>test_mvn_release</artifactId>
     <packaging>jar</packaging>
-    <version>2.5-SNAPSHOT</version>
+    <version>2.5</version>
     <name>maven-release-with-jipack</name>
     <url>http://maven.apache.org</url>
 
